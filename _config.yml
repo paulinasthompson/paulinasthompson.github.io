@@ -29,7 +29,7 @@ author:
   bio              : "Aspiring Clinical Psychologist & Researcher"
   location         : "Valhalla, NY"
   employer         : "Sarah Lawrence College"
-  uri              : "paulinasthompson.github.io" # URL
+  uri              : # URL
   email            : "paulinasthompson@gmail.com" 
 
   # Academic websites
